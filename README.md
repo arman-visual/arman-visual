@@ -38,8 +38,6 @@ I like the mobile world and I'm specializing in this technology where I've learn
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-And more...
 
 ## Find me at:
 
