@@ -46,4 +46,4 @@ I like the mobile world and I'm specializing in this technology where I've learn
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/arman.4qt@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:arman.4qt@gmail.com)
+[![Email](https://img.shields.io/badge/arman.4qt@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:arman.4qt@gmail.com)
