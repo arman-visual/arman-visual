@@ -14,21 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, my name is Arman!
-### I'm Android developer & Backend developer(Java/Spring)
-
-### [SPANISH]
-
-Soy desarrollador desde hace de 2 años, empecé con Java en el entorno de los Microservicios, pero personalmente he ido desarrollandome por mi cuenta en la tecnología móvil con Android Studio y Kotlin. 
-
-Me fascina el mundo mobile y, este último en año 2020, he estado dedicando mi tiempo para especializarme en este campo, con el aprendizaje de patrones de arquitectura como MVP,y MVVM, y Arquitectura Clean. Tambien útilizo tecnologias como Android Jetpack, Corrutinas, y buenas practicas aplicando S.O.L.I.D siempre que sea posible.
-
-### [ENGLISH]
-
-I'm developer since 2 years, I began with Java in the environment of Microservices, but I've been improving my skills about Android with Kotlin in this last year 2020.
-
-I like the mobile world and I'm specializing in this technology where I've learned architecture patrons like as MVP, MVVM, Clean Architecture and I usually use technology like as Android Jetpack, Kotlin Coroutines, and S.O.L.I.D.
-
-
+### I'm Android developer 
 
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
